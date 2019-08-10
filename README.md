@@ -5,7 +5,7 @@ changes so far:
 
 algae terrarium now produces oxygen and new algae from water and co2 in the environment
 
-oxygen diffuser, renamed to algae pyrolyser, outputs coal and steam by breaking down algae
+oxygen diffuser, renamed to algae pyrolyser, outputs coal and steam by breaking down algae, will need to add an emptying job for the coal produced
 
 
 updated descriptions for two buildings and algae to reflect changes
