@@ -5,6 +5,9 @@ using STRINGS;
 /**
  * Change List:
  * 
+ 1. algae terrarium now produces oxygen and new algae from water and co2 in the environment
+ 2. oxygen diffuser, renamed to algae pyrolyser, outputs coal and steam by breaking down algae
+ 3. updated descriptions for two buildings and algae to reflect changes
  * 
  */
 
