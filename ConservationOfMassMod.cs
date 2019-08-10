@@ -28,14 +28,6 @@ namespace ConservationOfMassMod
 
         static void Postfix(MineralDeoxidizerConfig __instance, ref GameObject go, ref Tag prefab_tag)
         {
-            const float carbon_molar_mass = 0.012011f;
-            const float hydrogen_molar_mass = 0.001008f;
-            const float oxygen_molar_mass = 0.015999f;
-
-            const float glucose_molar_mass = 6.0f * carbon_molar_mass + 12.0f * hydrogen_molar_mass + 6.0f * oxygen_molar_mass;
-            const float glucose_moles_consumed = 0.55f / glucose_molar_mass;
-            const float water_molar_mass = hydrogen_molar_mass * 2.0f + oxygen_molar_mass;
-
             ElementConverter elementConverter = go.AddOrGet<ElementConverter>();
             elementConverter.outputElements = new ElementConverter.OutputElement[]
             {
