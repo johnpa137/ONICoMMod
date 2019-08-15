@@ -1,5 +1,5 @@
 # ONICoMMod
-Trying to do add conservation of mass to ONI, slowly
+Trying to do add conservation of mass to ONI (Oxygen Not Included by Klei), slowly
 
 changes so far:
 
