@@ -1,3 +1,5 @@
+Note project abandoned
+
 # ONICoMMod
 Trying to do add conservation of mass to ONI (Oxygen Not Included by Klei), slowly
 
